@@ -1,0 +1,20 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#baby
+{
+font-size: 18px;
+}
+canvas{
+    border: 5px rebeccapurple dashed;
+    border-radius: 20px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
